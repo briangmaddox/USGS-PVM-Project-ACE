@@ -1,0 +1,7 @@
+POLYC
+NAD83
+METERS
+-91
+38.75
+0
+0

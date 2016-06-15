@@ -1,0 +1,6 @@
+SNSOID
+NAD83
+METERS
+-91
+0
+0
